@@ -1,2 +1,2 @@
-# minor-project-on-netflix-datasets
+# Minor-project-on-netflix-datasets
 hollywood movies datasets
