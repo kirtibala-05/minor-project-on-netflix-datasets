@@ -1,2 +1,1 @@
-# Minor-project-on-netflix-datasets
-hollywood movies datasets
+# Minor-project-on- migration predictor
